@@ -1,5 +1,4 @@
 # NaturePhotographer.github.io
-It about photogrape of nature 
 <!DOCTYPE html>
 <html lang="en">
 <head>
