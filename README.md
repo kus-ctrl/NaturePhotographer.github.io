@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nature Portfolio</title>
+    <title>Nature Photographer</title>
     <style>
         body { background: #0b0c10; color: #66fcf1; font-family: 'Segoe UI', sans-serif; text-align: center; }
         header { padding: 50px; }
